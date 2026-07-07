@@ -98,3 +98,4 @@ D:\.NET CORE\FriendsCafe\FriendsCafe\obj\Debug\net10.0\FriendsCafe.genruntimecon
 D:\.NET CORE\FriendsCafe\FriendsCafe\obj\Debug\net10.0\ref\FriendsCafe.dll
 D:\.NET CORE\FriendsCafe\FriendsCafe\obj\Debug\net10.0\compressed\t649ovtk1j-{0}-mebvsybzjv-mebvsybzjv.gz
 D:\.NET CORE\FriendsCafe\FriendsCafe\obj\Debug\net10.0\compressed\ng0pkp4d8y-{0}-i6ufqnjp46-i6ufqnjp46.gz
+D:\.NET CORE\FriendsCafe\FriendsCafe\obj\Debug\net10.0\FriendsCafe.sourcelink.json

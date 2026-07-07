@@ -5,8 +5,41 @@
     ViewData["Title"] = "Menu";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<h1>Menu</h1>
-<div class="container p-1 m-1 border-black">
+<style>
+    h1 {
+    color: #5D1C34;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    margin-top: 20px;
+    }
+
+    h4 {
+    color: #223030;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    }
+
+    h2 {
+    color: #5D1C34;
+    font-family: 'Arial', sans-serif;
+    margin-top: 30px;
+    }
+
+    .card {
+        border-radius: 10px;
+        margin: 10px;
+    }
+    .container {
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin: 20px;
+    justify-content: center;
+    gap: 10px;
+    }
+</style>
+<h2>Menu</h2>
+<div class="container">
 <div class="card">
     <div class="card-body">Cold Coffee:99 RS</div>
     <img src="~/images/coffee.jpg" />
